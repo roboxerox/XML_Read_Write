@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CATALOG>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="standby" EtuOnline="0" EtuSelected="0">
+        <ETUS IP="127.0.0.11" COACH="Coach-1/ETU-1" INIT="15:44:19" NEXT_STOP="DUMMY" CALL_START="15:44:27" STATUS="OK" CALL_END="15:44:29"/>
+        <ETUS IP="127.0.0.21" COACH="Coach-2/ETU-1" INIT="15:44:21" NEXT_STOP="DUMMY" CALL_START="15:44:31" STATUS="OK" CALL_END="15:44:33"/>
+        <ETUS IP="127.0.0.31" COACH="Coach-3/ETU-1" INIT="15:44:23" NEXT_STOP="DUMMY" CALL_START="00:00:00" STATUS="OK" CALL_END="15:44:35"/>
+    </ETUSTAT>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+    <ETUSTAT EtuState="OK" EtuOnline="2" EtuSelected="0">
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <ETUSTAT>
+        <ETUS IP="192.168.0.1" COACH="123"/>
+    </ETUSTAT>
+    <STATHEADER Mode="ETU" GSMSTAT="Online"/>
+</CATALOG>
