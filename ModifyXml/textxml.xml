@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BASIC_DETAILS>
+    <TAG>
+        <TAGsub1>888</TAGsub1>
+        <TAGsub2>111</TAGsub2>
+    </TAG>
+    <isGUI>true</isGUI>
+    <AppName>Fog Clearing</AppName>
+    <IconPath>/home/apaul/AppManager/config/Fogvision.jpg</IconPath>
+    <EXE>./../FogVisionAPI.sh</EXE>
+    <AutoRestart>true</AutoRestart>
+</BASIC_DETAILS>
