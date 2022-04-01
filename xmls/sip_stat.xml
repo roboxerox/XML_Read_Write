@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CATALOG>
+    <SIP_STAT sipOnline="2" sipState="OK" sipSelected="0">
+        <SIP LOC="123" IP="192.168.0.1"/>
+    </SIP_STAT>
+    <SIP_STAT>
+        <SIP LOC="123" IP="192.168.0.1"/>
+    </SIP_STAT>
+    <STATHEADER GSMSTAT="Online" Mode="SIP"/>
+    <SIP_STAT sipOnline="2" sipState="OK" sipSelected="0">
+        <SIP LOC="123" IP="192.168.0.1"/>
+    </SIP_STAT>
+    <SIP_STAT>
+        <SIP LOC="123" IP="192.168.0.1"/>
+    </SIP_STAT>
+    <STATHEADER GSMSTAT="Online" Mode="SIP"/>
+    <SIP_STAT sipOnline="2" sipState="OK" sipSelected="0">
+        <SIP LOC="123" IP="192.168.0.1"/>
+    </SIP_STAT>
+    <SIP_STAT>
+        <SIP LOC="123" IP="192.168.0.1"/>
+    </SIP_STAT>
+    <STATHEADER GSMSTAT="Online" Mode="SIP"/>
+</CATALOG>

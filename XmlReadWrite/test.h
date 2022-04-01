@@ -7,6 +7,8 @@
 #include <QPrinter>
 #include <QPainter>
 #include <QPrintDialog>
+#include <QDir>
+#include <QDateTime>
 
 class Test :public QObject
 {

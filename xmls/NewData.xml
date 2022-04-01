@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ROOT_TAG>
+    <BasicDetails>
+        <Name>Jona</Name>
+        <Mobile>1234567890</Mobile>
+        <Address>Manitoba</Address>
+    </BasicDetails>
+    <AcademicDetails>
+        <HighSchool>St. Peter High School</HighSchool>
+        <Graduation>MIT London</Graduation>
+        <PostGraduation>MIT London</PostGraduation>
+    </AcademicDetails>
+</ROOT_TAG>

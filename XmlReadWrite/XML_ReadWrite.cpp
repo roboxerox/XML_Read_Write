@@ -16,10 +16,6 @@ bool XML_ReadWrite::SetXML_FileToRead(QString FileName)
     if(file.exists())
     {
         QDomDocument *doc = new QDomDocument;
-//        file.open(QIODevice::ReadOnly);
-//        QByteArray FileContent = file.readAll();
-//        FileContent.replace("&lt;","<");
-//        FileContent.replace("&gt;",">");
         if (!doc->setContent(&file))
         {
             file.close();
