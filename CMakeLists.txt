@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.1.0)
 
-project(iDownloadServer
+project(XmlReadWrite
   VERSION
     1.0
   DESCRIPTION
-    "Download files via TCP/IP (server - client method)"
+    "qt based example xml read write"
   LANGUAGES
     CXX
 )
